@@ -7,7 +7,7 @@ namespace R5T.S0107
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Scripts.Instance.Get_SignatureForMember();
         }
     }
 }
